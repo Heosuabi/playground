@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane>
+    <top>
+        <Label text="Page title" />
+    </top>
+    <center>
+        <Label text="Some data here" />
+    </center>
+</BorderPane>
